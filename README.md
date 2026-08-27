@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-beer-ba4b01308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linktr.ee/CreateMark"><img src="https://img.shields.io/badge/Portafolio-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Portafolio" /></a>
   <a href="mailto:creativemarkventas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
