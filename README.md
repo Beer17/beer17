@@ -55,9 +55,6 @@
 
 <hr />
 
-<h2 align="center">📊 Métricas de GitHub</h2>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
+
+
